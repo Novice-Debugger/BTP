@@ -21,18 +21,6 @@ git clone https://github.com/Novice-Debugger/BTP.git
 cd BTP
 ```
 
-Create a virtual environment (recommended):
-
-```bash
-python -m venv venv
-
-# On Windows
-venv\Scripts\activate
-
-# On macOS/Linux
-source venv/bin/activate
-```
-
 Install the required dependencies:
 
 ```bash
